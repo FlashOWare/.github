@@ -8,6 +8,7 @@ We C# .NET
 #### Socials
 * X (Twitter): [@FlashOWare](https://twitter.com/FlashOWare)
 * Mastodon: [@FlashOWare@dotnet.social](https://dotnet.social/@FlashOWare)
+* Bluesky: [@flashoware.bsky.social](https://bsky.app/profile/flashoware.bsky.social)
 * LinkedIn: [FlashOWare](https://www.linkedin.com/company/flashoware)
 
 #### Dev
