@@ -2,6 +2,7 @@
 We C# .NET
 
 #### Channels
+* Kick: [FlashOWare](https://kick.com/flashoware)
 * Twitch: [FlashOWare](https://www.twitch.tv/flashoware)
 * YouTube: [FlashOWare](https://www.youtube.com/@FlashOWare)
 
